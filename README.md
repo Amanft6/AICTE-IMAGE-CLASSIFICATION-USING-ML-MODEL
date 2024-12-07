@@ -1,5 +1,5 @@
 # AICTE-IMAGE-CLASSIFICATION-USING-ML-MODEL
-This is an small project that I have created for my AICTE internship.
+This is a small project that I have created for my AICTE internship.
 
 ## Here are some of the snapshots of the final project
 
